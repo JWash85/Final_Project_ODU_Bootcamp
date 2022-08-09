@@ -1,4 +1,7 @@
+Front_end
 installed Bootstrap
+Back_end
+express
 
 # Getting Started with Create React App
 
