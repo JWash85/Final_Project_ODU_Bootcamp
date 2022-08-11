@@ -2,6 +2,7 @@ Front_end
 installed Bootstrap
 Back_end
 express
+install phaser
 
 # Getting Started with Create React App
 
